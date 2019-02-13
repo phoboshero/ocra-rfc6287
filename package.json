@@ -1,0 +1,25 @@
+{
+  "name": "ocra-rfc6287",
+  "version": "0.0.1",
+  "description": "Nodejs implementation of OCRA - RFC 6287",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoboshero/ocra-rfc6287.git"
+  },
+  "author": "Phobos Meng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoboshero/ocra-rfc6287/issues"
+  },
+  "homepage": "https://github.com/phoboshero/ocra-rfc6287#readme",
+  "devDependencies": {
+    "ava": "^1.2.1"
+  }
+}
